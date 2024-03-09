@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinvalikhani&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinvalikhani" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinvalikhani" alt="hosseinvalikhani" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/hosseinv_ir" target="blank"><img src="https://img.shields.io/twitter/follow/hosseinv_ir?logo=twitter&style=for-the-badge" alt="hosseinv_ir" /></a> </p>
+
 - 🔭 I’m currently working on **Bankist project**
 
 - 🌱 I’m currently learning **JavaScript**
