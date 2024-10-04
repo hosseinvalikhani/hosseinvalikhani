@@ -3,17 +3,14 @@
 <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinvalikhani" alt="hosseinvalikhani" /></a> </p>
 
-- 🔭 I’m currently working on **Bankist project**
+- 🔭 I’m currently working on **online shop project**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Vue.js and Typescript**
 
 - 💬 Ask me about **HTML, Tailwind & JavaScript**
 
-- 📄 Know about my experiences [jobvision.ir/cv/71083533-153253](jobvision.ir/cv/71083533-153253)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hosseinv_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hosseinv_ir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hosseinvalikhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosseinvalikhani" height="30" width="40" /></a>
 </p>
 
