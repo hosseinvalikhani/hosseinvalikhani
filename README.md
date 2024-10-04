@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hossein</h1>
-<h3 align="center">I am a frontend developer intern</h3>
+<h3 align="center">I am a frontend developer</h3>
 <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinvalikhani" alt="hosseinvalikhani" /></a> </p>
 
